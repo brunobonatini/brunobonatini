@@ -1,9 +1,5 @@
 [![author](https://img.shields.io/badge/author-brunobonatini-red.svg)](https://www.linkedin.com/in/bsbonatini) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org)
 
-<p align="center">
-  <img src="banner.png" >
-</p>
-
 ### Hi there! 👋
 
 # Bruno Spagnol Bonatini
