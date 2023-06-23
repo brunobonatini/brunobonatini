@@ -8,4 +8,4 @@ Cientista e Analista de dados que busca extrair insight relevantes para auxiliar
 
 Graduado em Sistemas de Informação pela Universade de Mogi das Cruzes
 
-**Background in:** Python, SQL, Power BI, Excel.
+**Background in:** Python, Java, SQL, Power BI, Excel.
