@@ -4,6 +4,6 @@
 
 Meu nome é Bruno, moro em São Paulo capital.
 
-Graduado em Sistemas de Informação pela Universade de Mogi das Cruzes
+Graduado em Sistemas de Informação pela Universade de Mogi das Cruzes.
 
 **Background in:** Python, Java, SQL, Power BI, Excel.
