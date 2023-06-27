@@ -4,8 +4,6 @@
 
 Meu nome é Bruno, moro em São Paulo capital.
 
-Cientista e Analista de dados que busca extrair insight relevantes para auxiliar a empresa na tomada de decisão.
-
 Graduado em Sistemas de Informação pela Universade de Mogi das Cruzes
 
 **Background in:** Python, Java, SQL, Power BI, Excel.
