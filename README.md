@@ -7,6 +7,7 @@ Meu nome é Bruno, moro em São Paulo capital.
 Apaixonado por tecnologia e desenvolvimento de software.
 
 Cursando Desenvolvimento Back-End na Universidade Cruzeiro do Sul.
+
 Graduado em Sistemas de Informação pela Universade de Mogi das Cruzes.
 
 **Background in:** Java, Python, SQL, Banco de dados.
