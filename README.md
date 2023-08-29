@@ -1,5 +1,7 @@
 [![author](https://img.shields.io/badge/author-brunobonatini-red.svg)](https://www.linkedin.com/in/bsbonatini)
 
+![banner](https://github.com/brunobonatini/brunobonatini/assets/105396325/bac84dcb-6d19-4057-a7fc-77adfe4ca4ae)
+
 ### Hi there! 👋
 
 Meu nome é Bruno, moro em São Paulo capital.
