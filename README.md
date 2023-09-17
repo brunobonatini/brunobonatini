@@ -12,4 +12,4 @@ Cursando Desenvolvimento Back-End na Universidade Cruzeiro do Sul.
 
 Graduado em Sistemas de Informação pela Universade de Mogi das Cruzes.
 
-**Background in:** Java, Python, SQL, Banco de dados.
+**Background in:** Python, SQL, Banco de dados, Javascript, HTML, CSS.
