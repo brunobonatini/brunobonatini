@@ -6,7 +6,7 @@
 
 Meu nome é Bruno, moro em São Paulo capital.
 
-Apaixonado por tecnologia e desenvolvimento de software.
+Apaixonado por tecnologia em Data Science & Analytics.
 
 Cursando Desenvolvimento Back-End na Universidade Cruzeiro do Sul.
 
