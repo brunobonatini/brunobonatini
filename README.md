@@ -12,4 +12,4 @@ Cursando Tecnologia em Banco de Dados na Universidade Cruzeiro do Sul.
 
 Graduado em Sistemas de Informação pela Universade de Mogi das Cruzes.
 
-**Background in:** Python, SQL, Banco de dados, HTML, CSS, Javascript, Data Engineer & Analytics.
+**Background in:** Python, SQL, Banco de dados, Data Engineer & Analytics.
