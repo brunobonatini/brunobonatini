@@ -13,3 +13,7 @@ Pós graduado em Engenharia de dados pela Data Science Academy.
 Graduado em Sistemas de Informação pela Universade de Mogi das Cruzes.
 
 **Background in:** Python, SQL, Spark, Airbyte, IAC, GCP, Azure, AWS, Banco de dados, Data Engineer & Analytics.
+
+## 📫 Contato
+- LinkedIn: https://linkedin.com/in/bsbonatini
+- Email: brunospagnol@gmail.com
