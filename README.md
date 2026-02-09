@@ -2,7 +2,7 @@
 
 ![1688009391915](https://github.com/brunobonatini/brunobonatini/assets/105396325/9d202763-d8cc-4be2-9791-11007b3eedfb)
 
-### Hi there! 👋
+### Olá Pessoal! 👋
 
 Meu nome é Bruno, moro em São Paulo capital.
 
