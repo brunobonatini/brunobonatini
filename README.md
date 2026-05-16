@@ -12,7 +12,7 @@ Pós graduado em Engenharia de dados pela Data Science Academy.
 
 Graduado em Sistemas de Informação pela Universade de Mogi das Cruzes.
 
-**Background in:** Python, SQL, Spark, Hadoop. Hive, Impala, Hue, Cloudera, Databricks, HDFS, Airbyte, IAC, GCP, Azure, AWS, Banco de dados, Git, Data Engineer.
+**Background in:** Python, SQL, Spark, Hadoop, Hive, Impala, Hue, Cloudera, Databricks, HDFS, Airbyte, IAC, GCP, Azure, AWS, Banco de dados, Git, Data Engineer.
 
 ## 📫 Contato
 - LinkedIn: https://linkedin.com/in/bsbonatini
